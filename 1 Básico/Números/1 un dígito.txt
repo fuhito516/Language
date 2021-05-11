@@ -1,0 +1,18 @@
+1	いち	一
+uno
+2	に	二
+dos
+3	さん	三
+tres
+4	よん	四
+cuatro
+5	ご	五
+cinco
+6	ろく	六
+seis
+7	なな	七
+siete
+8	はち	八
+ocho
+9	きゅう	九
+nueve

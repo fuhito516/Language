@@ -1,0 +1,46 @@
+10	じゅう		十
+dies
+11	じゅういち
+once
+12	じゅうに
+doce
+13	じゅうさん
+trece
+14	じゅうよん
+catorce
+15	じゅうご
+quince
+16	じゅうろく
+dieciseis
+17	じゅうなな
+diecisiete
+18	じゅうはち
+dieciocho
+19	じゅうきゅう
+diecinueve
+20	にゅう
+veinte
+21	にじゅういち
+veintiuno
+30	さんじゅう
+treinta
+31	さんじゅういち
+treinta y uno
+40	よんじゅう
+cuarenta
+50	ごじゅう
+cincuenta
+60	ろくじゅう
+sesenta
+70	ななじゅう
+setenta
+80	はちじゅう
+ochenta
+90	きゅうじゅう
+noventa
+100	ひゃく		百
+cien
+1000	せん		千
+mil
+10000	まん		万
+diez mil

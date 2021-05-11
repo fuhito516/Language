@@ -1,0 +1,20 @@
+1	いちばんめ	一番目
+primero
+2	にばんめ
+segundo
+3	さんばんめ
+tercero
+4	よんばんめ
+cuarto
+5	ごばんめ
+quinto
+6	ろくばんめ
+sexto
+7	ななばんめ
+séptimo
+8	はちばんめ
+octavo
+9	きゅうばんめ
+noveno
+10	じゅうばんめ
+décimo
