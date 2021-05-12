@@ -1,4 +1,8 @@
-えいご	英語
+えいご		英語
 ingles
 もちろん
 claro
+わすれる	忘れる
+olvidar
+いつも
+siempre

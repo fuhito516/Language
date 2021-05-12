@@ -1,0 +1,69 @@
+現在分詞
+haciendo
+過去分詞
+hecho
+
+【直接法】
+現在
+(yo) hago
+(tú) haces
+(él) hace
+(nosotros) hacemos
+(vosotros) hacéis
+(ellos) hacen
+
+点過去（完了過去）
+(yo) hice
+(tú) hiciste
+(él) hizo
+(nosotros) hicimos
+(vosotros) hicisteis
+(ellos) hicieron
+
+線過去（不完了過去）
+(yo) hacía
+(tú) hacías
+(él) hacía
+(nosotros) hacíamos
+(vosotros) hacíais
+(ellos) hacían
+
+未来
+(yo) haré
+(tú) harás
+(él) hará
+(nosotros) haremos
+(vosotros) haréis
+(ellos) harán
+
+過去未来（条件、可能）
+(yo) haría
+(tú) harías
+(él) haría
+(nosotros) haríamos
+(vosotros) haríais
+(ellos) harían
+
+【命令法】
+(tú) haz
+(él) haga
+(nosotros) hagamos
+(vosotros) haced
+(ellos) hagan
+
+【接続法】
+現在
+que (yo) haga
+que (tú) hagas
+que (él) haga
+que (nosotros) hagamos
+que (vosotros) hagáis
+que (ellos) hagan
+
+過去
+que (yo) hiciera
+que (tú) hicieras
+que (él) hiciera
+que (nosotros) hiciéramos
+que (vosotros) hicierais
+que (ellos) hicieran

@@ -1,2 +1,4 @@
-いみ	意味
+いみ		意味
 significado
+すこしの～	少しの～
+un poco de ～
