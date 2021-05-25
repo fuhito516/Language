@@ -25,7 +25,7 @@ hoja
 かみ		紙
 respuesta
 こたえ		答え
-instrucciones
+instruccion
 しじ		指示
 correo
 メール
