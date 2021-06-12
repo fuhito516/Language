@@ -1,3 +1,2 @@
 しる	知る
-saber
-conocer
+saber, conocer
