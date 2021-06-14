@@ -1,0 +1,39 @@
+significa	japones		Hiragana
+
+# Who
+Yo		Watashi		わたし
+※mi=Watashi no,a mi=Watashi ni
+Tu		Anata		あなた
+
+# Cuantos
+Un poco		Sukoshi		すこし
+Muchas		Takusan		たくさん
+※Takusan se combina solo con sustantivos
+
+# Verbo
+Hay		Aru		ある
+※En el caso de los seres vivos, es Iru
+Me gusta	Suki		すき
+
+# Conjunción
+Y		To		と
+
+# 5W1H(What,Why,When,Where,Who,How)
+Que		Nani		なに
+Por que		Nande		なんで
+Cuando		Itsu		いつ
+Donde		Doko		どこ
+Quien		Dare		だれ
+Como		Dô		どう
+※Cuando hacer un llamada? Itsu Denwa (o) Suru?
+※En japonés, los verbos y sustantivos 
+  no cambian según el sujeto.(hacer○hago×,perro○perros×)
+※Los artículos tampoco existen(un×,el×)
+
+# Cuando
+Ahora		Ima		いま
+Hoy		Kyô		きょう
+
+# Expresión
+Perfecto	Kanpeki		かんぺき
+Tierno		Kawaî		かわいい
