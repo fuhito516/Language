@@ -1,7 +1,7 @@
  アエイオウ
 kカケキコク
 sサセシソス
-tタテチトツtsu
+tタテチトツ chi tsu
 nナネニノヌ
 
 // Katakana(Ingres)
