@@ -1,0 +1,31 @@
+ アエイオウ
+kカケキコク
+sサセシソス
+tタテチトツtsu
+nナネニノヌ
+
+// Katakana(Ingres)
+ドア=door
+ケーキ=cake
+ソース=source
+
+// aunque con Hiragana 
+#cuelpo
+テ=mano
+アシ=pierna
+#color
+アオ=azul
+アカ=rojo
+#útil
+～を クダサイ=por favor
+ナニ=que
+～ノ=de～
+
+nada  con"　con°
+k　 →g
+s　 →z
+t　 →d
+h　 →b　 →p
+
+ー
+kêki(ケーキ)
