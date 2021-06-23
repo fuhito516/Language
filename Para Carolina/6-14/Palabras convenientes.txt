@@ -33,6 +33,8 @@ Como		Dô		どう
 # Cuando
 Ahora		Ima		いま
 Hoy		Kyô		きょう
+Mañana		Ashita		あした
+Ayer		Kinô		きのう
 
 # Expresión
 Perfecto	Kanpeki		かんぺき

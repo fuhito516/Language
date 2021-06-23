@@ -4,22 +4,22 @@ sサセシソス
 tタテチトツ chi tsu
 nナネニノヌ
 
-// Katakana(Ingres)
+// Katakana(Inglés)
 ドア=door
 ケーキ=cake
 ソース=source
 
 // aunque con Hiragana 
-#cuelpo
-テ=mano
-アシ=pierna
+#cuerpo
+テte=mano
+アシashi=pierna
 #color
-アオ=azul
-アカ=rojo
+アオao=azul
+アカaka=rojo
 #útil
-～を クダサイ=por favor
-ナニ=que
-～ノ=de～
+～を クダサイkudasai=por favor
+ナニnani=que
+～ノno=de～
 
 nada  con"　con°
 k　 →g
