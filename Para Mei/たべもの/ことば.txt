@@ -6,3 +6,6 @@ comida
 plato
 りょうり
 料理
+
+dulce
+スイーツ
