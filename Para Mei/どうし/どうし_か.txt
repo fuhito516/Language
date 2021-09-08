@@ -5,7 +5,7 @@ comprar
 
 かえる
 変える
-canbiar
+cambiar
 
 かえる
 帰る
@@ -36,7 +36,7 @@ decidir
 
 きる
 着る
-poner//ropa
+poner//ropa//zapatos=はく
 
 きる
 切る

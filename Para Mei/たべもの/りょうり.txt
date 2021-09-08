@@ -1,6 +1,49 @@
 
+//りょうり
+
 albondiga
 ミートボール
 
+curry
+カレー
+
+guiso
+シチュー
+
+pizza
+ピザ
+
+ramen
+ラーメン
+
 spagetti
 スパゲッティー
+
+// どうし
+
+lavar
+あらう
+洗う
+
+preparar
+じゅんびをする
+準備をする
+
+cortar
+きる
+切る
+
+poner adentro
+いれる
+入れる
+
+freir
+やく
+焼く
+
+se completa la cocción
+できる
+
+limpiar
+そうじをする
+掃除をする

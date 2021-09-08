@@ -3,16 +3,17 @@ aguacate verde
 みどりのアボカド//の(de)
 緑のアボカド
 
-arroz
-おこめ//お(amable)
-お米
+arroz branco
+しろいおこめ//お(amable)
+白いお米
 
 carne
 にく
 肉
 
-chocorate
-チョコーレート
+chocorate dulce
+あまいチョコーレート
+甘いチョコーレート
 
 espinaca
 ほうれんそう
@@ -26,12 +27,9 @@ frijol
 まめ
 豆
 
-fruta dulce
-あまいフルーツ
-甘いフルーツ
-
-fresa
-イチゴ
+fresa roja
+あかいイチゴ
+赤いイチゴ
 
 ganba
 えび
@@ -39,7 +37,7 @@ ganba
 helado
 アイス
 
-hongo
+seta
 きのこ
 
 huevo
@@ -56,9 +54,8 @@ maiz amarillo
 きいろいコーン
 黄色いコーン
 
-mayonesa branca
-しろいマヨネーズ
-白いマヨネーズ
+mayonesa
+マヨネーズ
 
 pan
 パン
@@ -86,9 +83,8 @@ salsa
 sebolla
 たまねぎ
 
-tomate rojo
-あかいトマト
-赤いトマト
+tomate
+トマト
 
 zanahoria naranja
 オレンジのにんじん//の(de)
