@@ -1,0 +1,11 @@
+
+ドア
+puerta
+かべ
+pared
+やね
+techo
+まど
+ventana
+カーテン
+cortina
