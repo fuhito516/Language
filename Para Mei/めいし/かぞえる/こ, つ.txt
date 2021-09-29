@@ -1,0 +1,43 @@
+
+・こ…casual(カジュアル)
+いっこ
+にこ
+さんこ
+よんこ
+ごこ
+ろっこ
+ななこ
+はっこ
+きゅうこ
+じゅっこ
+じゅういっこ
+
+Hay un tacos.
+タコスがある。
+Hay uno tacos.
+タコスがいっこある。
+Hay dos tacos.
+タコスがにこある。
+Hay tres tacos.
+タコスがさんこある。
+
+・つ…formal(フォーマル)
+ひとつ
+ふたつ
+みっつ
+よっつ
+いつつ
+むっつ
+ななつ
+やっつ
+ここのつ
+とお
+
+Hay un tacos.
+タコスがある。
+Hay uno tacos.
+タコスがひとつある。
+Hay dos tacos.
+タコスがふたつある。
+Hay tres tacos.
+タコスがみっつある。
