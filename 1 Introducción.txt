@@ -1,4 +1,12 @@
-こんにちは。
-Hola.
-一緒に勉強しましょう！
-¡Vamos a estudiar juntos!
+
+E)Hola.
+J)こんにちは。
+E)Vamos a estudiar juntos!
+J)いっしょにべんきょうしましょう！
+K)一緒に勉強しましょう！
+
+/*
+E = Español
+J = Japones
+K = Kanji
+*/

@@ -39,3 +39,4 @@ Ayer		Kinô		きのう
 # Expresión
 Perfecto	Kanpeki		かんぺき
 Tierno		Kawaî		かわいい
+うつくしいUtsukushii Hermoso

@@ -1,0 +1,11 @@
+
+Hola.
+
+Gracias por elegir mi entorno de aprendizaje.
+
+El número de la directorio es
+ el nivel de dificultad.
+
+Empiece desde 1, por favor.
+
+Buena suerte!
