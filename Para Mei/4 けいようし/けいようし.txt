@@ -1,16 +1,8 @@
 
-amplio
-ひろい
-広い
-estrecho
-せまい
-狭い
-limpio
-きれい
-綺麗
-rico
-おいしい
-美味しい
-sucio
-きたない
-汚い
+amplio		ひろい		広い
+estrecho	せまい		狭い
+limpio		きれい		綺麗
+rico		おいしい	美味しい
+sucio		きたない	汚い
+
+no poder ayudar	しかたない	仕方ない

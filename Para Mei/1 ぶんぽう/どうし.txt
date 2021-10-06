@@ -1,16 +1,16 @@
 
-1 vamos a ～ 	～(o)う
-2 por favor ～	～(i)て
+1 vamos a ～ 	～(u→o)う
+2 por favor ～	～(u→i)て
 
 ・Por ejemplo
 する
 1 しよう
 2 して
 
-はなす
+はなす	話す
 1 はなそう
 2 はなして
 
-あるく		aruku
+あるく	歩く	aruku
 1 あるこう	arukou
 2 あるいて

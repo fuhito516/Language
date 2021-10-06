@@ -1,4 +1,15 @@
 
+comida
+たべもの
+食べ物
+
+plato
+りょうり
+料理
+
+dulce
+スイーツ
+
 aguacate verde
 みどりのアボカド//の(de)
 緑のアボカド

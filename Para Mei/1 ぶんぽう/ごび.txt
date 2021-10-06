@@ -1,10 +1,11 @@
 
-ごび	Fin de frase
+Fin de frase	ごび	語尾
 
 // Tipo
 ね	Simpatia
 よ	Afirmado
+なー	Soliloquio
 
 // Regla
-sustantivo + だ(ね,よ)
-otro + (ね,よ)
+sustantivo + だ(Tipo)
+otro(verbo,adjetivo,adverbo..) + (Tipo)

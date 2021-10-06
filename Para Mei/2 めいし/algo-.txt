@@ -1,13 +1,8 @@
 
-～か	algo ～
+algo ～		～か
 
-いつか
-algun dia
-どこか
-algun lugar
-だれか
-alguna persona
-なにか
-alguna cosa
-なぜか
-alguna razón
+algun dia	いつか
+algun lugar	どこか
+alguna persona	だれか
+alguna cosa	なにか
+alguna razón	なぜか
