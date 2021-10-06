@@ -1,0 +1,10 @@
+
+ごび	Fin de frase
+
+// Tipo
+ね	Simpatia
+よ	Afirmado
+
+// Regla
+sustantivo + だ(ね,よ)
+otro + (ね,よ)
