@@ -1,25 +1,13 @@
 
-Enero
-いちがつ
-Febrero
-にがつ
-Marzo
-さんがつ
-Abril
-しがつ
-Mayo
-ごがつ
-Junio
-ろくがつ
-Julio
-しちがつ
-Agosto
-はちがつ
-Septiembre
-くがつ
-Octubre
-じゅうがつ
-Noviembre
-じゅういちがつ
-Diciembre
-じゅうにがつ
+いち		がつ	Enero
+に　		がつ	Febrero
+さん		がつ	Marzo
+し　		がつ	Abril
+ご　		がつ	Mayo
+ろく		がつ	Junio
+しち		がつ	Julio
+はち		がつ	Agosto
+く		がつ	Septiembre
+じゅう		がつ	Octubre
+じゅういち	がつ	Noviembre
+じゅうに	がつ	Diciembre

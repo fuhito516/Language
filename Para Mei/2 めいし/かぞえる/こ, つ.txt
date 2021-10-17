@@ -1,4 +1,5 @@
 
+// Contar Cosas
 ・こ…casual(カジュアル)
 いっこ
 にこ
@@ -12,15 +13,6 @@
 じゅっこ
 じゅういっこ
 
-Hay un tacos.
-タコスがある。
-Hay uno tacos.
-タコスがいっこある。
-Hay dos tacos.
-タコスがにこある。
-Hay tres tacos.
-タコスがさんこある。
-
 ・つ…formal(フォーマル)
 ひとつ
 ふたつ
@@ -31,13 +23,3 @@ Hay tres tacos.
 ななつ
 やっつ
 ここのつ
-とお
-
-Hay un tacos.
-タコスがある。
-Hay uno tacos.
-タコスがひとつある。
-Hay dos tacos.
-タコスがふたつある。
-Hay tres tacos.
-タコスがみっつある。

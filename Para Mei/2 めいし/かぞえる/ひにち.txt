@@ -1,30 +1,17 @@
 
-26dias Septiembre 2021años
-2021年9月26日
+16dias Octubre 2021años
+2021ねん10がつ16にち
 
-1dia
-ついたち(一日)
-2dias
-ふつか(二日)
-3dias
-みっか
-4dias
-よっか
-5dias
-いつか
-6dias
-むいか
-7dias
-なのか
-8dias
-ようか
-9dias
-ここのか
-10dias
-とおか
-11dias-19dias
-numeros+にち
-20dias
-はつか
-21dias-31dias
-numeros+にち
+ついたち	1dia
+ふつか		2dias
+みっか		3dias
+よっか		4dias
+いつか		5dias
+むいか		6dias
+なのか		7dias
+ようか		8dias
+ここのか	9dias
+とおか		10dias
+numeros+にち	11dias-19dias
+はつか		20dias
+numeros+にち	21dias-31dias
