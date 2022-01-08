@@ -1,9 +1,0 @@
-
-herramienta	どうぐ		道具
-
-cuchara		スプーン
-cuchillo	ほうちょう	包丁
-olla		なべ		鍋金
-sarten		フライパン
-tabla de cortar	まないた	まな板
-tenedor		フォーク

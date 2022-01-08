@@ -1,6 +1,7 @@
 
 E)Hola.
 J)こんにちは。
+
 E)Vamos a estudiar juntos!
 J)いっしょにべんきょうしましょう！
 K)一緒に勉強しましょう！
