@@ -1,0 +1,12 @@
+
+// 基本
+
+私 	na
+あなた	tansin
+
+これ	igo
+あれ	chogo
+それ	kugo
+
+は 	nun
+を	ru

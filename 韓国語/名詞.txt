@@ -1,0 +1,18 @@
+
+// 名詞
+
+ゲーム		geim
+
+左		wencho
+右		oruncho
+前		ape
+後ろ		ty
+上		wi
+下		are
+
+何		voya
+なんで		we
+
+お米		pa
+ラーメン	ra-mion
+ハンバーガー	henbogo

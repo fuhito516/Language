@@ -1,0 +1,10 @@
+
+// 形容詞
+
+いいね	choayo
+すごい	tedanhe
+
+いいよ	teyo
+だめ	ande
+
+えーと	ummm
