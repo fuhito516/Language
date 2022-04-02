@@ -1,12 +1,13 @@
 
 // 動詞
 
+しない		ane
+
 する		hare
 勉強する	gonbu are
 食べる		mogure
 
-しない		ane
-食べない	an mogu
+食べない	an mogure
 
 したい		hagoshippo
 食べたい	mogoshippo
