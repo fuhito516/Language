@@ -1,0 +1,85 @@
+
+頼(たの)む
+		pedir
+逃(に)げる
+		huir
+建(た)てる
+		construir
+含(ふく)める
+		incluir
+排除(はいじょ)する
+		excluir
+負(ま)ける
+		perder
+役立(やくだ)つ
+		servir
+続(つづ)ける
+		seguir
+獲得(かくとく)する
+		adquirir
+調査(ちょうさ)する
+		inquirir
+
+// 不規則動詞
+ir
+		voy vas va vamos vais van
+haber
+		he has ha hemos habéis han
+saber
+		sé sabes sabe sabemos sabéis saben
+ver
+		veo ves ve vemos veis ven
+dar
+		doy das da damos dais dan
+huir
+		huyo huyes huye huimos huís huyen
+construir
+		construyo construyes construye construimos construís construyen
+excluir
+		excluyo excluyes excluye excluimos excluís excluyen
+
+// e → ie 型動詞
+pensar
+		pienso piensas piensa pensamos pensáis piensan
+empezar
+		empiezo empiezas empieza empezamos empezáis empiezan
+cerrar
+		cierro cierras cierra cerramos cerráis cierran
+recomendar
+		recomiendo recomiendas recomienda recomendamos recomendáis recomiendan
+perder
+		pierdo pierdes pierde perdemos perdéis pierden
+entender
+		entiendo entiendes entiende entendemos entendéis entienden
+querer
+		quiero quieres quiere queremos queréis quieren
+sentir
+		siento sientes siente sentimos sentís sienten
+
+// o → ue 型動詞
+volver
+		vuelvo vuelves vuelve volvemos volvéis vuelven
+dormir
+		duermo duermes duerme dormimos dormís duermen
+morir
+		muero mueres muere morimos morís mueren
+contar
+		cuento cuentas cuenta contamos contáis cuentan
+recordar
+		recuerdo recuerdas recuerda recordamos recordáis recuerdan
+
+// e → i 型動詞
+pedir
+		pido pides pide pedimos pedís piden
+servir
+		sirvo sirves sirve servimos servís sirven
+seguir
+		sigo sigues sigue seguimos seguís siguen
+
+// その他型動詞
+jugar
+		juego juegas juega jugamos jugáis juegan
+adquirir
+		adquiero adquieres adquiere adquirimos adquirís adquieren
+inquirir
+		inquiero inquieres inquiere inquirimos inquirís inquieren

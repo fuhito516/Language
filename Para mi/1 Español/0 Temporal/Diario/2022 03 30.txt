@@ -1,0 +1,67 @@
+
+// 名詞(めいし)
+洗濯機(せんたっき)
+		lavadora
+
+// 文(ぶん)
+席(せき)
+		asiento
+景色(けしき)
+		vista
+皆(みな)さん何(なに)を頼(たの)まれますか？
+		Qué les gustaría pedir?
+いくら
+		cuánto cuesta
+飲(の)みます(yo, futuro)
+		tomaré
+雰囲気(ふんいき)
+		ambiente
+香(かお)り
+		olor
+甘(あま)さ
+		dulzura
+カラフル
+		colorful
+少(すこ)し
+		ligeramente
+しょっぱい
+		salado
+塩(しお)加減(かげん)
+		salinidad
+ちょうど良い
+		justa
+味(あじ)
+		sabor
+脂(あぶら)っこい
+		grasa
+お会計(かいけい)
+		factura
+普段(ふだん)
+		suele
+渡(わた)す
+		dejar de
+チップ
+		propina
+何処(どこ)に
+		adónde
+行く(nuestro, futuro)
+		iremos
+
+共有(きょうゆう)する
+		compartir
+効率的(こうりつてき)
+		eficiente
+移(うつ)す
+		pasar
+また、
+		también
+このように
+		esta manera
+メモすること
+		escribiéndo
+復習(ふくしゅう)すること
+		repasándo
+アクセス
+		acceso
+使用(しよう)可能(かのう)な
+		disponible
