@@ -1,0 +1,54 @@
+
+チャレンジ
+Desafio
+
+科目
+Materia
+
+広い
+General
+
+先生
+Maestro>Profesor
+
+学校
+Escuela
+Colegio
+
+幼稚園
+Kinder
+
+小学校
+Primaria
+
+中学校
+Secundaria o Bachillerato
+
+高校
+Preparatoria
+
+大学
+Universidad
+
+数学
+Matemáticas
+
+英語
+Inglés
+
+体育
+Educación física
+
+理科
+Ciencias naturales
+Ciencias exactas
+生物　化学　物理
+Biología Química Física
+
+社会
+Sociales
+政治経済　歴史　地理　哲学
+Economía política Historia Geografía Filosofía
+
+伝統的な
+Tradicional
