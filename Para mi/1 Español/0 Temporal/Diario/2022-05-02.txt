@@ -1,7 +1,4 @@
 
-形にする
-Doy(Dar) forma a
-
 置き換える(翻訳する)
 Traduzco(Traducir) a
 
@@ -14,7 +11,7 @@ Temperatura
 (気温が)暖かい
 Está Subiendo
 
-～したい気分 
+～したい気分(フォーマル)
 Me apetece～
 
 外で(フォーマル)

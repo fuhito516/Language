@@ -1,0 +1,57 @@
+
+酔う
+Embriagar
+
+酔っている
+Estoy embrio
+
+二日酔い
+Resaca
+
+カーソル
+Cursor
+
+右
+Derecha
+
+エリア
+Zona
+
+フォルダ
+Carpeta
+
+ファイル
+Archivo
+
+バー
+Varilla
+
+反対側
+Lado opuesto
+
+並んでいるもの
+Cosas alineados
+Cosas en fila
+
+感謝しています
+Estoy en graditud
+
+約束
+Promesa
+
+予定
+Plan
+
+テキストボックス
+Cuadro de texto
+
+押す
+Presionar
+Presiono Presionas Presiona
+
+離す
+Soltar
+Suelto Sueltas Suelta
+
+続ける
+Sigo Sigues Sigue
