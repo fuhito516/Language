@@ -1,6 +1,6 @@
 
 置き換える(翻訳する)
-Traduzco(Traducir) a
+Traduzco Traduces Traduce + a
 
 晴れている
 Hace mucho sol
@@ -14,11 +14,11 @@ Está Subiendo
 ～したい気分(フォーマル)
 Me apetece～
 
-外で(フォーマル)
+屋外で(フォーマル)
 Al aire libre
 
 習慣づける
-Acostumbrarse a hacer
+Me acostumbro Te acostumbras Se acostumbra + a hacer
 
 ～なこと
 Las cosas que
@@ -51,7 +51,7 @@ Situación
 Existe
 
 分野
-Campo semantico
+Campo de especialización
 
 (開けた)場所
 Campo

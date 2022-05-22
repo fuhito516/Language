@@ -1,0 +1,37 @@
+
+貝
+	Mariscos
+オーラ
+	Aura
+金
+	Oro
+ビル
+	Edificio
+建物
+	Inmueble
+古い
+	Antiguo
+糸
+	Rosca
+答え
+	Respuesta
+夕方
+	Alrededor de la puesta de sol
+岩
+	Roca
+草
+	Hierba
+村
+	Pueblo
+郊外
+	Suburbio
+フレーズ(不完全文)
+	Frase
+文
+	Oración
+歩道
+	Acera
+道路
+	Carretera
+道
+	Camino

@@ -12,8 +12,7 @@ General
 Maestro>Profesor
 
 学校
-Escuela
-Colegio
+Escuela>Colegio
 
 幼稚園
 Kinder

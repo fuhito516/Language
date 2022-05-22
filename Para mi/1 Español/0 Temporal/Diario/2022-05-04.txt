@@ -1,7 +1,4 @@
 
-の間
-Durante
-
 歩
 Pasos
 
@@ -9,7 +6,7 @@ Pasos
 E
 
 見つけた
-Encontré
+Encontré Encontraste Encontró
 
 写真を撮る
 Hago fotos Saco fotos Tomo fotos
@@ -26,6 +23,7 @@ Llevar
 
 持ってくる
 Traer
+Traigo Traes Trae
 
 うんこ
 Popo
@@ -35,6 +33,3 @@ Pipi
 
 例外
 Excepciónes
-
-El probrema El agua El crima El día El idioma 
-La mano 

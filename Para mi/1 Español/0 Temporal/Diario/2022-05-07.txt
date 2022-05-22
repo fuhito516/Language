@@ -31,7 +31,6 @@ Presto Prestas Presta
 
 借りる
 Pedir prestado
-Prestar
 
 プロ
 Profesion
