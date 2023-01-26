@@ -1,0 +1,111 @@
+
+// ファーストステップ
+私たち
+women
+
+私とあなた
+wo hu ni
+
+みんな
+taja dou
+
+とても
+hen
+feichan
+
+日本人
+jiven jen
+
+中国人
+jonguo jen
+
+場所：ある、いる
+zai
+
+持っている：ある
+you
+
+時間
+shuhao
+
+// 接続語
+の
+de
+
+のため
+wei
+
+だけ
+ju you
+
+も
+ie
+
+// 質問
+どこ
+nari
+
+いつ
+shenma shuhao
+
+なぜ
+wei shenma
+
+どう
+zenmuyan
+
+// 時間
+今日
+jintien
+
+明日
+mintien
+
+昨日
+zoutien
+
+// 名詞
+焼きそば
+chaomien
+
+仕事
+gonzo
+
+ゲーム
+youshi
+
+トイレ
+tsesu
+
+意味
+isu
+
+水
+shuei
+
+おねがい
+chin
+
+// 動詞
+質問する
+wen
+
+遊ぶ
+wan
+
+// 文
+今日は調子はどう？
+jintien zenmuyan a?
+
+すみません
+bu hao isu
+
+これは炒飯
+jugu shu chaofan
+ju shu chaofan
+
+これはとても美味しい
+jugu hen haochu
+
+質問してもいいですか？
+chin wen
